@@ -1,7 +1,7 @@
 {
   "name": "pavankc",
   "version": "3.0.0",
-  "description": "A personal card for Andrew Chilton (@andychilton)",
+  "description": "A personal card for Pavan Kumar Chennupati (@pavancos)",
   "scripts": {
     "card": "node bin/card.js"
   },
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/pavankc/pavankc.git"
+    "url": "https://github.com/pavancos/npx-pavankc.git"
   },
   "dependencies": {
     "npxcard": "^0.1.0"
   },
-  "author": "Tierney Cyren <hello@bnb.im> (http://bnb.im)",
+  "author": "Pavan Kumar Chennupati <pavankc005@gmail.com>",
   "contributors": [
-    "Andrew Chilton <andychilton@gmail.com> (https://pavankc.org)"
+    "Pavan Kumar Chennupati <pavankc005@gmail.com>"
   ],
   "keywords": [
     "npxcard",

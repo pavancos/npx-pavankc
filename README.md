@@ -1,4 +1,4 @@
-# Andrew Chilton #
+# Pavan Kumar Chennupati #
 
 It me!
 
@@ -9,11 +9,3 @@ Via npx:
 ```
 npx pavankc
 ```
-
-## Credit ##
-
-Forked https://github.com/bnb/bitandbang and changed.
-
-## License ##
-
-MIT.
