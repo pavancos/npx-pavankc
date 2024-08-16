@@ -1,21 +1,28 @@
 {
   "name": "pavankc",
-  "version": "1.0.0",
-  "description": "",
+  "version": "3.0.0",
+  "description": "A personal card for Andrew Chilton (@andychilton)",
   "scripts": {
-    "dev": "nodemon card.js"
+    "card": "node bin/card.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "bin": {
+    "card": "./bin/card.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pavankc/pavankc.git"
+  },
   "dependencies": {
-    "boxen": "^7.1.1",
-    "chalk": "^5.3.0",
-    "clear": "^0.1.0",
-    "inquirer": "^9.2.14",
-    "open": "^10.0.3"
+    "npxcard": "^0.1.0"
   },
-  "devDependencies": {
-    "nodemon": "^3.0.3"
-  }
+  "author": "Tierney Cyren <hello@bnb.im> (http://bnb.im)",
+  "contributors": [
+    "Andrew Chilton <andychilton@gmail.com> (https://pavankc.org)"
+  ],
+  "keywords": [
+    "npxcard",
+    "npx",
+    "card"
+  ],
+  "license": "MIT"
 }
