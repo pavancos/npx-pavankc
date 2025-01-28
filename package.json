@@ -13,6 +13,7 @@
     "url": "https://github.com/pavancos/npx-pavankc.git"
   },
   "dependencies": {
+    "cross-spawn": "^7.0.6",
     "npxcard": "^0.1.0"
   },
   "author": "Pavan Kumar Chennupati <pavankc005@gmail.com>",
@@ -24,5 +25,8 @@
     "npx",
     "card"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "resolutions": {
+    "cross-spawn": "7.0.3"
+  }
 }
