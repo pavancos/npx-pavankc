@@ -13,5 +13,5 @@ npm i pavankc
 ```
 
 ```
-node bin/card.js
+node node_modules/pavankc/bin/card.js
 ```
