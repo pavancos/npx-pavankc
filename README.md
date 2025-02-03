@@ -1,11 +1,17 @@
 # Pavan Kumar Chennupati #
-
-It me!
-
 ## Usage ##
-
 Via npx:
 
 ```
 npx pavankc
+```
+
+Via npm:
+
+```
+npm i pavankc
+```
+
+```
+node bin/card.js
 ```
